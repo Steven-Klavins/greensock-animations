@@ -2,6 +2,22 @@ body {
     margin: auto;
 }
 
+.first {
+    max-width: 300px;
+    position: absolute;
+}
+
 .logo {
     max-width: 300px;
+    position: absolute;
+}
+
+.logo2 {
+    max-width: 300px;
+    position: absolute;
+}
+
+.logo3 {
+    max-width: 300px;
+    position: absolute;
 }
