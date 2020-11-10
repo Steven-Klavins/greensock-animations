@@ -1,5 +1,12 @@
 body {
     margin: auto;
+    padding: 30px;
+}
+
+/*Roll out*/
+
+.block {
+    min-height: 300px;
 }
 
 .first {
@@ -20,4 +27,11 @@ body {
 .logo3 {
     max-width: 300px;
     position: absolute;
+}
+
+/*Rotate*/
+
+.rotate {
+    max-width: 300px;
+    
 }
